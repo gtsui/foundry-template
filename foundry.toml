@@ -2,6 +2,7 @@
 src = 'src'
 out = 'out'
 libs = ['lib']
+verbosity = 4
 gas_reports = ["*"]
 remappings = [
   "ds-test/=lib/forge-std/lib/ds-test/src/",
